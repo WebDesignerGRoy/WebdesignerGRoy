@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG8OQehDSgQng/profile-displaybackgroundimage-shrink_350_1400/B56ZU2YJBMHsAY-/0/1740374055123?e=1769644800&v=beta&t=jL1CrjP6uRaSHGAmH3DAof6DUvNLeyuFVUO7QesENAk">
+<"https://media.licdn.com/dms/image/v2/D5616AQG8OQehDSgQng/profile-displaybackgroundimage-shrink_350_1400/B56ZU2YJBMHsAY-/0/1740374055123?e=1771459200&v=beta&t=_Gev_kqgqcp-hwpaHu8gG_DG7Z8B_y2JVHeSDDlzBCM">
 
 <h1 align="center">Hi 👋, I'm Goutam Roy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
