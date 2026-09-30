@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG8OQehDSgQng/profile-displaybackgroundimage-shrink_350_1400/B56ZU2YJBMHsAY-/0/1740374055123?e=1773273600&v=beta&t=MqLIlw8SPsDv_9rB4_vdkU_OW1EveCXTHDp7qHhjyEw">
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQG8OQehDSgQng/profile-displaybackgroundimage-shrink_350_1400/B56ZU2YJBMHsAY-/0/1740374055123?e=1773273600&v=beta&t=MqLIlw8SPsDv_9rB4_vdkU_OW1EveCXTHDp7qHhjyEw](https://media.licdn.com/dms/image/v2/D5616AQHfqp0OpdTmgw/profile-displaybackgroundimage-shrink_200_800/B56Z5VWQ4LGYAQ-/0/1779548360438?e=1792627200&v=beta&t=5cP9W1D3ZjcLpBf0ST1TrqHxCdMfTje9YjNNYrKgYBk 800w, https://media.licdn.com/dms/image/v2/D5616AQHfqp0OpdTmgw/profile-displaybackgroundimage-shrink_350_1400/B56Z5VWQ4LGYAU-/0/1779548360438?e=1792627200&v=beta&t=if2FuM-NT4JG7-iq5FBErzqdFPqhlCrQ65lD85s_gO4 1400w)">
 
 <h1 align="center">Hi 👋, I'm Goutam Roy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
